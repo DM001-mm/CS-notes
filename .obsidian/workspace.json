@@ -11,10 +11,14 @@
             "id": "24ce78fd14d166b8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2026-05-26.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "2026-05-26"
             }
           }
         ]
@@ -180,6 +184,10 @@
   },
   "active": "24ce78fd14d166b8",
   "lastOpenFiles": [
+    "TCP可靠传输的实现.md",
+    "2026-05-26.md",
+    "fa5405b149526a35c3c0741e05c7ec9e_720.jpg",
+    "90388cc8318e74e2c3d4b4999adcb3b6_720.jpg",
     "应用层协议——HTTP.md",
     "1bfc4f5e5a28efe1cdffaa6d8ff032d8_720.jpg",
     "c58ef0ac9c12a6c748d9691e35846f04_720.jpg",
@@ -197,8 +205,6 @@
     "初筛/检验和相关.md",
     "初筛/伪首部的相关知识.md",
     "ip 数据报首部解读.md",
-    "Pasted image 20260521001326.png",
-    "Pasted image 20260521001312.png",
     "欢迎.md"
   ]
 }
