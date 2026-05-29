@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IPv6.md",
+                "file": "本地链路广播地址.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IPv6"
+              "title": "本地链路广播地址"
             }
           }
         ]
@@ -183,12 +183,13 @@
   },
   "active": "24ce78fd14d166b8",
   "lastOpenFiles": [
-    "DNS.md",
+    "计网协议栈各层协议数据单元归纳.md",
+    "本地链路广播地址.md",
     "IPv6.md",
+    "DNS.md",
     "Pasted image 20260520233739.png",
     "RARP和ARP.md",
     "校验和相关.md",
-    "计网协议栈各层协议数据单元归纳.md",
     "帧——数据链路层和HTTP2.0的比较.md",
     "Pasted image 20260527235732.png",
     "Pasted image 20260527235230.png",
