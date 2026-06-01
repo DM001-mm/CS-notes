@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "智能指针.md",
-                "mode": "source",
+                "file": "ISA.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "智能指针"
+              "title": "ISA"
             }
           }
         ],
@@ -268,10 +268,11 @@
   },
   "active": "28b37f7821d5d289",
   "lastOpenFiles": [
+    "智能指针.md",
+    "ISA.md",
     "Pasted image 20260531115423.png",
     "Pasted image 20260531115006.png",
     "noexcept.md",
-    "智能指针.md",
     "String_view.md",
     "CPP-const.md",
     "计网应用层常见协议端口号.md",
@@ -299,7 +300,6 @@
     "1bfc4f5e5a28efe1cdffaa6d8ff032d8_720.jpg",
     "c58ef0ac9c12a6c748d9691e35846f04_720.jpg",
     "4725d74d1e0026f0b75a86e71ad3c2c0_720.jpg",
-    "890b1124a5a0bef95bf360c41323c94b_720.jpg",
     "你今天吃cookie 了吗.md",
     "计网实验8-AI 指导步骤.md",
     "2026-05-22.md",
