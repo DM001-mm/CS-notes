@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "写时拷贝.md",
+                "file": "写时拷贝 Copy-On-Write，COW.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "写时拷贝"
+              "title": "写时拷贝 Copy-On-Write，COW"
             }
           },
           {
@@ -227,7 +227,7 @@
   "active": "6da700ff156b2b79",
   "lastOpenFiles": [
     "页表项中的读写和可执行 属性位.md",
-    "写时拷贝.md",
+    "写时拷贝 Copy-On-Write，COW.md",
     "工作集模型.md",
     "核心态和用户态.md",
     "未命名",
