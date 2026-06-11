@@ -9,4 +9,4 @@
 [[计网协议栈各层协议数据单元归纳]]
 
 帧的结构
-![[Pasted image 20260527235732.png]]
+![[assets/Pasted image 20260527235732.png]]

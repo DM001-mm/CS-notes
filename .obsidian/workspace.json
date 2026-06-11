@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cache.md",
+                "file": "LibOS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cache"
+              "title": "LibOS"
             }
           }
         ]
@@ -183,10 +183,13 @@
   },
   "active": "e049f1b82f12533b",
   "lastOpenFiles": [
+    "ip 数据报首部解读.md",
+    "IPv6.md",
+    "智能指针.md",
+    "Cache.md",
     "66ea7e1e6d115414195acf1eb3f1c311.jpeg",
     "faf40010e2abb1299caf7271a7433ed8_720.jpg",
     "Word_20260611_213646(1).pdf",
-    "Cache.md",
     "工作集模型.md",
     "页表项中的读写和可执行 属性位.md",
     "相同内存页合并：KSM.md",
@@ -208,19 +211,16 @@
     "计网实验8-AI 指导步骤.md",
     "分层.md",
     "层级.md",
-    "智能指针.md",
     "ad4de6c31d47cab54e99df86cf0337c2.jpg",
     "未命名.md",
     "Pasted image 20260531115423.png",
     "Pasted image 20260531115006.png",
-    "ip 数据报首部解读.md",
     "校验和相关.md",
     "Pasted image 20260520233739.png",
     "Pasted image 20260527235732.png",
     "Pasted image 20260527235230.png",
     "fa5405b149526a35c3c0741e05c7ec9e_720.jpg",
     "90388cc8318e74e2c3d4b4999adcb3b6_720.jpg",
-    "1bfc4f5e5a28efe1cdffaa6d8ff032d8_720.jpg",
     "未命名.canvas"
   ]
 }

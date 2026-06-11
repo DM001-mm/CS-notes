@@ -1,4 +1,4 @@
-![[Pasted image 20260520233739.png]]
+![[assets/Pasted image 20260520233739.png]]
 
 # ipv4首部纠错:
 
@@ -13,27 +13,27 @@ $$
 
 # ipv6首部解读
 
-![[5f9665fb64a6bc0e2d6ba0846dde35ae_720.jpg]]
+![[assets/5f9665fb64a6bc0e2d6ba0846dde35ae_720.jpg]]
 
 **版本号**
 ipv4 是4，ipv6 是6
 
 **通信量类**
 
-![[Pasted image 20260520235634.png]]
-![[Pasted image 20260521000351.png]]
-![[Pasted image 20260521000516.png]]![[Pasted image 20260521000525.png]]
-![[Pasted image 20260521000629.png]]
-![[Pasted image 20260521000642.png|431]]
+![[assets/Pasted image 20260520235634.png]]
+![[assets/Pasted image 20260521000351.png]]
+![[assets/Pasted image 20260521000516.png]]![[assets/Pasted image 20260521000525.png]]
+![[assets/Pasted image 20260521000629.png]]
+![[assets/Pasted image 20260521000642.png|431]]
 ---
 **流标号**
 保证享受一样的服务，但是 为什么需要保证享受一样的服务呢？
 *比较关键的启发*
-![[Pasted image 20260521001109.png]]
+![[assets/Pasted image 20260521001109.png]]
 ->就是 证明 包的归属
-![[Pasted image 20260521001248.png]]
-![[Pasted image 20260521001312.png]]
-![[Pasted image 20260521001326.png]]
+![[assets/Pasted image 20260521001248.png]]
+![[assets/Pasted image 20260521001312.png]]
+![[assets/Pasted image 20260521001326.png]]
 ~~这个可以现在不了解~~
 
 其他的就没有什么好说的了
